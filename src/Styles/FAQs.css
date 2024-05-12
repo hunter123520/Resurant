@@ -1,0 +1,16 @@
+.acord{
+    background-color: transparent !important;
+    color:black !important;
+    font-size: 25px;
+}
+.acordT{
+    border-bottom: 2px solid rgb(188, 187, 187) !important;
+    transition: 0.5s !important;
+    transition-timing-function: ease-in !important;
+    padding: 15px 0 15px 0 !important;
+}
+.acordT:hover{
+    border-color: var(--main) !important;
+    transition: 0.5s !important;
+    transition-timing-function: ease-out !important;
+}

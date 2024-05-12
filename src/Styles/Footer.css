@@ -1,0 +1,33 @@
+/* * {
+    font-family: 'Inter', sans-serif;
+    padding: 0;
+    margin: 0;
+} */
+.footer{
+    background-color: #0693e3;
+    /*background-image: radial-gradient(circle at 1% 1%,#328bf2,#1644ad);*/
+    background: radial-gradient(circle at 1% 1%,#328bf2,#1644ad);
+    background: radial-gradient(circle at 1% 1%,#432e27,#411a0f);
+       background-position: 50%;
+       background-repeat: no-repeat;
+       background-size: auto;
+       overflow: hidden;
+       position: relative;
+   }
+.imgloft{
+    margin-top: -125px;
+    /* width: 100%; */
+    height: 140%;
+    opacity: .2;
+    width: 100%;
+    object-fit: cover;
+}
+
+.buttomicons.iconbutton{
+    color: var(--wt) !important;
+
+ }
+
+.activebut{
+ color: var(--second) !important;   
+}

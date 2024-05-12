@@ -1,0 +1,19 @@
+.Tab{
+    width:16%;
+    font-weight:600;
+}
+.Tab.Mui-selected{
+    color: black !important;
+    /* border-color: black !important; */
+}
+.MuiTabs-indicator{
+    background-color: var(--main) !important;
+    height: 3px !important;
+}
+.avcont{
+    transition: 0.5s all ease-in-out;
+}
+.productDisplayer:hover > div .avcont{
+    transform: scale(1.2) translateY(-15px) !important;
+    transition: 0.5s all ease-in-out;
+}
