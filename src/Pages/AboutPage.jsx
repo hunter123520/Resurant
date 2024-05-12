@@ -37,7 +37,7 @@ const render_project_members = project_members.map((member, index) => {
       </a>
       <span
         style={{
-          fontSize: "1.2rem",
+          fontSize: "19.5px",
           textAlign: "center",
           marginTop: "10px",
           fontWeight: "400",
@@ -48,7 +48,7 @@ const render_project_members = project_members.map((member, index) => {
       </span>
       <span
         style={{
-          fontSize: "0.8rem",
+          fontSize: "12.8px",
           textAlign: "center",
           marginTop: "10px",
           marginBottom: "25px",
@@ -156,7 +156,7 @@ function AboutPage() {
               className="team-title text-center"
               style={{
                 color: "#0B3841",
-                fontSize: "2.5rem",
+                fontSize: "40px",
                 fontWeight: "600",
                 marginTop: "0.25em",
                 marginBottom: "0.5em",
@@ -169,7 +169,7 @@ function AboutPage() {
           <div
             className="row-xs d-flex flex-wrap justify-content-between align-items-center"
             style={{
-              fontSize: "1.5rem",
+              fontSize: "24px",
               fontWeight: "300",
               padding: "0.5em",
             }}

@@ -19,7 +19,7 @@
   font-weight: 200 !important;
   -webkit-font-smoothing: antialiased;
   /* font-family: "roboto_semi" !important; */
-  font-size: 3.5rem;
+  font-size: 56px;
   /* font-weight: 300; */
   color: #116a7b;
   color: #262626;
@@ -35,7 +35,7 @@
 
 .CPTdesc {
   font-weight: 200;
-  font-size: 1.25rem;
+  font-size: 20px;
   width: 60%;
   line-height: 150%;
   -webkit-font-smoothing: antialiased;

@@ -29,7 +29,7 @@
   font-weight: 800 !important;
   -webkit-font-smoothing: antialiased;
   /* font-family: "roboto_semi" !important; */
-  font-size: 4rem;
+  font-size: 64px;
   /* font-weight: 300; */
   color: #116a7b;
   color: #262626;
@@ -94,7 +94,7 @@
   font-weight: 800 !important;
   -webkit-font-smoothing: antialiased;
   /* font-family: "roboto_semi" !important; */
-  font-size: 2rem;
+  font-size: 32px;
   /* font-weight: 300; */
   color: #116a7b;
   color: #262626;
@@ -109,7 +109,7 @@
   color: #666666;
   margin-bottom: 25px;
   margin-top: 15px;
-  font-size: 0.9rem;
+  font-size: 14.4px;
   width: 75%;
   text-align: justify;
   font-weight: 400;

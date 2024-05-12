@@ -59,7 +59,7 @@
     height: 200px;
     font-family: 'Inter', sans-serif;
      font-weight: 600 !important;
-     font-size: 1.1rem;
+     font-size: 17.6px;
     color: black;
  }
  .itemDisplayer span,.productDisplayer .content{
@@ -68,7 +68,7 @@
  }
  .productDisplayer .content2{
     font-weight: 700 !important;
-    font-size: 1.25rem;
+    font-size: 20px;
  }
  
  .productDisplayer{
@@ -113,7 +113,7 @@
      font-weight: 700 !important;
      -webkit-font-smoothing: antialiased;
      /* font-family: "roboto_semi" !important; */
-     font-size: 3.75rem;
+     font-size: 360px;
      /* font-weight: 300; */
      color: #116A7B;
      color: #262626;
@@ -121,7 +121,7 @@
  }
 
  .intro-title-small{
-    font-size: 1.5rem;
+    font-size: 24px;
     font-weight: 500 !important;
     color: #262626c9;
  }
@@ -129,7 +129,7 @@
  .intro-content,
  .descocontent {
      font-weight: 300;
-     font-size: 1rem;
+     font-size: 16px;
      width: 90%;
      line-height: 150%;
      -webkit-font-smoothing: antialiased;
@@ -153,13 +153,13 @@
     font-family: 'Inter', sans-serif;
      font-weight: 500 !important;
      -webkit-font-smoothing: antialiased;
-     font-size: 1.25rem;
+     font-size: 20px;
  }
  .b-title{
     font-family: 'Inter', sans-serif;
      font-weight: 700 !important;
      -webkit-font-smoothing: antialiased;
-     font-size: 2.5rem;
+     font-size: 40px;
      color: #262626;
      line-height: 125%;
  }
@@ -180,7 +180,7 @@
  .btn-text {
      color: white;
      font-weight: 500;
-     font-size: 0.9rem;
+     font-size: 14.4px;
      transition: 0.5s all ease;
  }
  
@@ -232,7 +232,7 @@
  .main-content {
      width: 75%;
      font-weight: 200;
-     font-size: 1.7rem;
+     font-size: 27.2px;
  }
  
  .main-courses-container {
@@ -263,7 +263,7 @@
      padding: 1em;
      margin: 0.25em;
      font-weight: 350;
-     font-size: 1.25rem;
+     font-size: 20px;
      font-size: 2.5vmin;
      border: 1px solid black;
      width: 80%;
@@ -296,7 +296,7 @@
  
  .sec-main {
      display: flex;
-     margin: 5rem 0;
+     margin:80px 0;
  }
  
  .sec-cont {
@@ -315,7 +315,7 @@
      font-weight: 800 !important;
      -webkit-font-smoothing: antialiased;
      /* font-family: "roboto_semi" !important; */
-     font-size: 3.5rem;
+     font-size: 56px;
      /* font-weight: 300; */
      color: #116A7B;
      color: #262626;
@@ -325,7 +325,7 @@
  
  .sec-dc {
      font-weight: 300;
-     font-size: 1.25rem;
+     font-size: 20px;
      width: 85%;
      line-height: 150%;
      -webkit-font-smoothing: antialiased;
@@ -347,7 +347,7 @@
      font-weight: 300 !important;
      -webkit-font-smoothing: antialiased;
      /* font-family: "roboto_semi" !important; */
-     font-size: 3.5rem;
+     font-size: 56px;
      /* font-weight: 300; */
      /* color: #116A7B;
      color: #262626; */
@@ -371,7 +371,7 @@
      font-weight: 800 !important;
      -webkit-font-smoothing: antialiased;
      /* font-family: "roboto_semi" !important; */
-     font-size: 3.5rem;
+     font-size: 56px;
      /* font-weight: 300; */
      color: #116A7B;
      color: #262626;
@@ -403,11 +403,11 @@
  .l-title{
     font-family: 'Inter', sans-serif;
      font-weight: 700 !important;
-     font-size: 1.75rem;
+     font-size: 28px;
     color: black;
  }
  .ll-title{
-    font-size: 1.25rem;
+    font-size: 20px;
     color:#26262674;
  }
  .iconbuttonB{
@@ -425,7 +425,7 @@
  .h-title{
     position: absolute;
     font-weight: 900;
-    font-size: 4rem;
+    font-size:64px;
     color: var(--wt);
     z-index: -1;
     margin-top: -50px;
@@ -446,13 +446,13 @@
  
  .text-container {
      height: 350px;
-     padding-left: 2rem;
-     padding-top: 1.5rem;
+     padding-left:32px;
+     padding-top: 24px;
      height: fit-content;
  }
  
  .descotitle {
-     font-size: 2rem;
+     font-size:32px;
      width: 100%;
      text-align: start;
      /* text-align: justify; */
@@ -460,7 +460,7 @@
  
  .descocontent {
      margin-top: 15px;
-     font-size: 0.9rem;
+     font-size: 14.4px;
      width: 100%;
      text-align: justify;
      font-weight: 400;
@@ -544,7 +544,7 @@
          font-size: 20px;
      }
      .tr-nc {
-         font-size: 2.5rem;
+         font-size: 40px;
      }
      .main-courses-container {
          width: 80%;
@@ -577,7 +577,7 @@
          padding: 1em 0.5em;
      }
      .sec-nc {
-         font-size: 2.5rem;
+         font-size: 40px;
      }
      .imgcont {
          display: none;

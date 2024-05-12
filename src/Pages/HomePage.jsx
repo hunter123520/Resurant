@@ -54,7 +54,7 @@ function HomePage() {
                         <div className='d-flex flex-row justify-content-center align-items-center mt-4' style={{gap:"25px"}}>
                             <div className='d-flex flex-column itemDisplayer justify-content-center align-items-center'>
                                 <div className='rounded-circle mb-3 d-flex align-items-center justify-content-center' style={{width:"65%",aspectRatio:"1",backgroundColor:"black"}}>
-                                    <Star style={{color:"white",fontSize:"2.5rem"}}></Star>
+                                    <Star style={{color:"white",fontSize:"40px"}}></Star>
                                 </div>
                                 (4.8)
                                 <span >15k reviews</span>
@@ -62,7 +62,7 @@ function HomePage() {
 
                             <div className='d-flex flex-column itemDisplayer justify-content-center align-items-center'>
                                 <div className='rounded-circle mb-3 d-flex align-items-center justify-content-center' style={{width:"65%",aspectRatio:"1",backgroundColor:"black"}}>
-                                    <RestaurantMenuIcon style={{color:"white",fontSize:"2.5rem"}}></RestaurantMenuIcon>
+                                    <RestaurantMenuIcon style={{color:"white",fontSize:"40px"}}></RestaurantMenuIcon>
                                 </div>
                                 3000+
                                 <span >Restaurant</span>
@@ -70,7 +70,7 @@ function HomePage() {
 
                             <div className='d-flex flex-column itemDisplayer justify-content-center align-items-center'>
                                 <div className='rounded-circle mb-3 d-flex align-items-center justify-content-center' style={{width:"65%",aspectRatio:"1",backgroundColor:"black"}}>
-                                    <DinnerDiningIcon style={{color:"white",fontSize:"2.5rem"}}></DinnerDiningIcon>
+                                    <DinnerDiningIcon style={{color:"white",fontSize:"40px"}}></DinnerDiningIcon>
                                 </div>
                                 9000+
                                 <span >Food Items</span>
@@ -122,7 +122,7 @@ function HomePage() {
 
                        <div className='d-flex flex-row itemDisplayer p-4' style={{gap:"15px",width:"55%",height:"165px",marginLeft:"-200px"}}>
                         <div className='rounded-circle mb-3 d-flex align-items-center justify-content-center w-25' style={{height:"fit-content",aspectRatio:"1",backgroundColor:"black"}}>
-                                <SoupKitchenIcon style={{color:"white",fontSize:"1.5rem"}}></SoupKitchenIcon>
+                                <SoupKitchenIcon style={{color:"white",fontSize:"24px"}}></SoupKitchenIcon>
                             </div>
                         <div className='d-flex flex-column  justify-content-start align-items-start pt-2'>
                             Fresh Food
@@ -132,7 +132,7 @@ function HomePage() {
 
                        <div className='d-flex flex-row itemDisplayer p-4' style={{gap:"15px",width:"55%",height:"165px"}}>
                         <div className='rounded-circle mb-3 d-flex align-items-center justify-content-center w-25' style={{height:"fit-content",aspectRatio:"1",backgroundColor:"black"}}>
-                                <DeliveryDiningIcon style={{color:"white",fontSize:"1.5rem"}}></DeliveryDiningIcon>
+                                <DeliveryDiningIcon style={{color:"white",fontSize:"24px"}}></DeliveryDiningIcon>
                             </div>
                         <div className='d-flex flex-column  justify-content-start align-items-start pt-2'>
                             Fast Delivery
@@ -142,7 +142,7 @@ function HomePage() {
 
                        <div className='d-flex flex-row itemDisplayer p-4' style={{gap:"15px",width:"55%",height:"165px",marginRight:"-200px"}}>
                         <div className='rounded-circle mb-3 d-flex align-items-center justify-content-center w-25' style={{height:"fit-content",aspectRatio:"1",backgroundColor:"black"}}>
-                                <BrunchDiningIcon style={{color:"white",fontSize:"1.5rem"}}></BrunchDiningIcon>
+                                <BrunchDiningIcon style={{color:"white",fontSize:"24px"}}></BrunchDiningIcon>
                             </div>
                         <div className='d-flex flex-column  justify-content-start align-items-start pt-2'>
                         Quality Maintain
@@ -170,7 +170,7 @@ function HomePage() {
                     <div className='text-container ans d-flex flex-column justify-content-start align-items-start content-container' style={{height:"60vh",backgroundColor:"var(--wt)",width:"55%"}}>
                         <span className='l-title'>Andrew Simons</span>
                         <span className='ll-title'>Manager in Stars Food</span>
-                        <div className='descocontent mt-4' style={{fontSize:"1.25rem"}}>
+                        <div className='descocontent mt-4' style={{fontSize:"20px"}}>
                         Food Delivery was incredibly user-friendly.  Searching for restaurants was a breeze and the interface was clear and easy to navigate. Ordering was simple and I appreciated the ability to track my food in real-time.
                         </div>
                         <div class="col p-0" style={{height:"fit-content",zIndex:"5"}}>
@@ -213,7 +213,7 @@ function HomePage() {
                             Email Adress
                             <span style={{fontSize:"15px"}}> Company.Adress@gmail.com</span>
                             <div className='rounded-circle mb-3 d-flex align-items-center justify-content-center iconHolderOut' style={{height:"fit-content",aspectRatio:"1"}}>
-                                <Email style={{color:"black",fontSize:"1.75rem"}}></Email>
+                                <Email style={{color:"black",fontSize:"28px"}}></Email>
                             </div>
                         </div>
 
@@ -221,7 +221,7 @@ function HomePage() {
                             Live Support
                             <span style={{fontSize:"15px"}}> Get Live Support Now</span>
                             <div className='rounded-circle mb-3 d-flex align-items-center justify-content-center iconHolderOut' style={{height:"fit-content",aspectRatio:"1"}}>
-                                <SupportAgentIcon style={{color:"black",fontSize:"1.75rem"}}></SupportAgentIcon>
+                                <SupportAgentIcon style={{color:"black",fontSize:"28px"}}></SupportAgentIcon>
                             </div>
                         </div>
 
@@ -229,7 +229,7 @@ function HomePage() {
                             Phone Number
                             <span style={{fontSize:"15px"}}> +94 654 213 546</span>
                             <div className='rounded-circle mb-3 d-flex align-items-center justify-content-center iconHolderOut' style={{height:"fit-content",aspectRatio:"1"}}>
-                                <PhoneInTalkIcon style={{color:"black",fontSize:"1.75rem"}}></PhoneInTalkIcon>
+                                <PhoneInTalkIcon style={{color:"black",fontSize:"28px"}}></PhoneInTalkIcon>
                             </div>
                         </div>
                     </div>
